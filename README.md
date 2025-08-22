@@ -4,8 +4,6 @@ I’m a web designer & developer based in Northern Germany. I’ve been making w
 
 ### Check out some of my work:
 
-🧠 https://adhdlinks.com/
-
-💡 https://dearwebsiteowner.com/
-
-👤 https://fancybios.com/
+- https://adhdlinks.com/
+- https://dearwebsiteowner.com/
+- https://fancybios.com/
