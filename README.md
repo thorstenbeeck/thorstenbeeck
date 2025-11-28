@@ -4,8 +4,8 @@ I’m a web designer & developer based in Northern Germany. I’ve been making w
 
 **Check out some of my work:**
 
-🧠 [adhdlinks.com](https://adhdlinks.com/)
+ADHD Links – Useful links for people with ADHD. [adhdlinks.com](https://adhdlinks.com/)
 
-💡 [dearwebsiteowner.com](https://dearwebsiteowner.com/)
+Dear Website Owner – Helpful tips and links for website owners. [dearwebsiteowner.com](https://dearwebsiteowner.com/)
 
-👤 [fancybios.com](https://fancybios.com/)
+Fancy Bios – A fancy bio generator for web people. [fancybios.com](https://fancybios.com/)
